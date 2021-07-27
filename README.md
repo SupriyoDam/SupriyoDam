@@ -1,4 +1,4 @@
-## Hell!!!  I'm Supriyo Dam
+## Hello!!!  I'm Supriyo Dam, a coder and learner.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SupriyoDam&label=Views&color=blue&style=plastic" alt="SupriyoDam" /> </p>
 
