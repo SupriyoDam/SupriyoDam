@@ -30,7 +30,7 @@
 
 
 <a href="https://linkedin.com/in/SupriyoDam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SupriyoDam" height="30" width="40" /></a>
-<a href="https://kaggle.com/SupriyoDam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaushikpal2020" height="30" width="40" /></a>
+<a href="https://kaggle.com/supriyosupriyodam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Supriyo Dam" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/SupriyoDam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="SupriyoDam" height="30" width="40" /></a>
 <a href="https://leetcode.com/supriyosupriyodam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/supriyosupriyodam/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/supriyosupriyodam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="SupriyoDam" height="30" width="40" /></a>
